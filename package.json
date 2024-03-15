@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "web3": "^4.6.0"
+  },
+  
+  "scripts": {
+    "start": "node src/Test1.js"
+  },
+
+  "name": "testjavabubble",
+  "version": "1.0.0",
+  "main": "Test1.js",
+  "devDependencies": {},
+ 
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
+ 
